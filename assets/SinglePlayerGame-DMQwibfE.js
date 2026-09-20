@@ -1,0 +1,1 @@
+import{C as e,E as t,T as n,l as r,v as i}from"./index-AbEviF5a.js";import{n as a,t as o}from"./GameBoard-BmQygfVy.js";var s=e({__name:`SinglePlayerGame`,setup(e){let s=r(),c=a();return n(()=>{c.startGame({mode:`single`,playerCount:Number(s.params.playerCount),humanCount:1})}),(e,n)=>(t(),i(o))}});export{s as default};
